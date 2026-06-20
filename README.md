@@ -1,8 +1,9 @@
-# SDPII - GROEP4
+# Mi Media - Frontend
 
 ## Team Members
+
 - **Hendrik Senechal**  
-  Email: hendrik.senechal@student.hogent.be  
+  Email: hendrik.senechal@gmail.com 
   GitHub: [HendrikSenechal](https://github.com/HendrikSenechal)
 
 ------------------------------------------------------------------------
@@ -19,28 +20,29 @@
 
 ------------------------------------------------------------------------
 
-## Installatie-instructies
+## Installation instructions
 
-1. Kloon de repository
+1. Clone the repository
 
-2. Open het project in:
-  - VS Code
+2. Open the project in:
+   - VS Code
 
-3. Zorg ervoor dat je het volgende hebt geïnstalleerd:
-  - Node.js
+3. Make sure you have the following installed:
+   - Node.js
 
-4. Installeer de afhankelijkheden:
-  - pnpm install
+4. Install the dependencies:
+   - pnpm install
 
-5. Wees zeker dat de backend op je computer draait
+5. Make sure the backend is running on your computer
 
-7.  Start de applicatie met:
-  - pnpm vite
+7. Start the application with:
+   - pnpm vite
 
 ------------------------------------------------------------------------
 
-## Nuttige Commando's
-/
+## Useful Commands
+
+TODO
 
 ------------------------------------------------------------------------
 
@@ -56,18 +58,18 @@ Create a `.env` file in the root of the project and configure the following vari
 
 ------------------------------------------------------------------------
 
-## Authenticatie
+## Authentication
 
-### Gebruikers
+### Users
 
 TODO
 
-### Rollen
+### Roles
 
 TODO
 
 ------------------------------------------------------------------------
 
-## Overzicht van de oplossingsstructuur
+## Overview of the solution structure
 
 TODO
